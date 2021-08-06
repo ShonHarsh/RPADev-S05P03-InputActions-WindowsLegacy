@@ -1,8 +1,8 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
 
-# S00P00 Title
+# S05P03 Input Actions
 
-This project is my solution in **C#** to the **Project Name** practice found in section 00 practice 00 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **Input Actions** practice found in section 05 practice 03 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -12,21 +12,23 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 00 UI Automation with the Classic Experience
+**Section:** 05 UI Automation with the Classic Experience
 
-**Practice:** 00 Practice Name
+**Practice:** 03 Input Actions
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S00P00-ProjectName
+**GitHub:** https://github.com/ShonHarsh/RPADev-S05P03-InputActions
 
 Sample Output
 
 ```
-//ToDo
+08/06/2021 14:44:36 => [Debug] Execution started for project: RPADev-S05P03-InputActions
+08/06/2021 14:44:37 => [Info] RPADev-S05P03-InputActions execution started
+08/06/2021 14:45:10 => [Info] RPADev-S05P03-InputActions execution ended in: 00:00:32
 ```
 
 ### Notes
 
-//Notes
+The output will be in the notepad file at the location specified during the process.
 
 ### RPA Developer Foundation Sections
 
@@ -90,7 +92,7 @@ Sample Output
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses`
+`git clone https://github.com/ShonHarsh/RPADev-S05P03-InputActions`
 
 ### Links
 
