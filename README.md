@@ -80,6 +80,12 @@ The output will be in the notepad file at the location specified during the proc
 
 6. Selectors In Studio
 
+   P01 [RPADev-S06P01-GetAndSortData](https://github.com/ShonHarsh/RPADev-S06P01-GetAndSortData)
+
+   P02 [RPADev-S06P02-SetData](https://github.com/ShonHarsh/RPADev-S06P02-SetData)
+
+   P03 [RPADev-S06P03-Highlight-TypeItems](https://github.com/ShonHarsh/RPADev-S06P03-Highlight-TypeItems)
+
 7. Project Organization In Studio
 
 8. Error And Exception Handling In Studio
