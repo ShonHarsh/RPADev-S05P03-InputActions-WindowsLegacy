@@ -8,6 +8,19 @@ This project is my solution in **C#** to the **Input Actions** practice found in
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### **Input data into Notepad**
+
+Create a sequence that does the following Notepad automation:
+
+- Asks the user for the text to be typed.
+- Asks the user for the title under which the file should be saved.
+- Opens Notepad.
+- Types the user’s text.
+- Changes the font style to bold and its size to 16.
+- Navigates to Save as to save the file with the user’s title.
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
