@@ -1,4 +1,4 @@
-![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
+![](https://shonharsh.github.io/curriculum-vitae/Images/Banner-UiPath-01.png)
 
 # S05P03 Input Actions
 
@@ -35,7 +35,7 @@ Create a sequence that does the following Notepad automation:
 
 ### Sample Output
 
-```
+```sh
 08/06/2021 14:44:36 => [Debug] Execution started for project: RPADev-S05P03-InputActions
 08/06/2021 14:44:37 => [Info] RPADev-S05P03-InputActions execution started
 08/06/2021 14:45:10 => [Info] RPADev-S05P03-InputActions execution ended in: 00:00:32
@@ -47,15 +47,19 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 1. An Orchestrator connection - Visit https://cloud.uipath.com/ and authenticate or sign up.
 2. [UiPath Studio](https://www.uipath.com/product/studio) is used to run the robot.  Note that Studio Web can be used directly in Orchestrator but I recommend installing the Studio IDE application.
 
+[![UiPath Setup Guide](https://shonharsh.github.io/curriculum-vitae/Images/Title-UiPath-Setup-Guide.png)](https://github.com/ShonHarsh/UiPath-SetupGuide)
+
 ### Git Notes
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S05P03-InputActions-WindowsLegacy`
+```sh
+git clone https://github.com/ShonHarsh/RPADev-S05P03-InputActions-WindowsLegacy
+```
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
-- [UiPath Studio](https://www.uipath.com/product/studio)
+- [UiPath Studio](https://www.uipath.com/product/studio)- [Pulsar](https://pulsar-edit.dev/) (Atom Successor) - Used for all my README.md files
 - [Shon Harsh Website 127.0.0.1](https://shonharsh.github.io/curriculum-vitae/index.html)
 - [This.GitHub](https://github.com/shonharsh)
 - [LinkedIn](https://www.linkedin.com/in/shonharsh/)
